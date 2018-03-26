@@ -1,0 +1,13 @@
+The program, Markov Note, and its source code are created by Jing Low 
+with the use of external packages and resources, including:
+-edu.duke.org package by Duke University
+-jfugue package by David Koelle
+-org.apache.commons package by The Apache Software Foundation
+
+The main algorithm of the program is derived from
+the WordNGram project provided on dukelearntoprogram.com as an exercise
+for the Coursera course "Java Programming: Principles of Software Design."
+The algorithm is applied and modified into a musical context.
+  
+The program, Markov Note, and its source code are licensed under 
+the Creative Commons Attribution 4.0 International License.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Extras/Eclipse/Eclipse Workspace/Capstone Project/jfugue-5.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lowji/Downloads/courserajava.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/English 12 Capstone/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
